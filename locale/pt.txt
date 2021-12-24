@@ -1,0 +1,30 @@
+#: locale=pt
+
+## Tour
+
+### Description
+tour.description = @natalepronto @grupoalphas
+
+### Title
+tour.name = Cotia - Decoração de Natal
+
+## Skin
+
+### Button
+Button_CEB15595_EDC9_3016_41EC_F78E452303CA.label = BAIXE O CATÁLOGO DE NATAL EM PDF
+Button_CEB15595_EDC9_3016_41EC_F78E452303CA_mobile.label = BAIXE O CATÁLOGO DE NATAL EM PDF
+
+### Tooltip
+IconButton_138AC8EB_1C81_A718_41B9_C0E861AF42F4.toolTip = Fullscreen
+IconButton_138AC8EB_1C81_A718_41B9_C0E861AF42F4_mobile.toolTip = Fullscreen
+
+## Media
+
+### Title
+panorama_F03244DA_EDF9_5013_41DC_274B199DA8C3.label = 27
+panorama_F0328127_EDF9_3031_41B0_44894A09A319.label = 28
+panorama_F0329B85_EDF9_50F1_41E0_A3023ED2A417.label = 25
+panorama_F032A88A_EDF9_70F3_41DE_AEBD623FB41D.label = 26
+panorama_F032BC6A_EDF9_3033_41DB_00F3B84B99F8.label = 29
+panorama_F0335EF5_EDF9_3016_41CA_414851CF6887.label = 24
+panorama_F31682FB_EDF9_3011_41E8_2E62F0093F99.label = 23
